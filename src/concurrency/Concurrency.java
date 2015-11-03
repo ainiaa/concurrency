@@ -5,12 +5,9 @@
  */
 package concurrency;
 
-import concurrency.util.FileUtils;
 import concurrency.util.HttpPostUtils;
 import java.util.HashMap;
 import java.util.Map;
-import java.util.concurrent.ExecutorService;
-import java.util.concurrent.Executors;
 
 /**
  *
